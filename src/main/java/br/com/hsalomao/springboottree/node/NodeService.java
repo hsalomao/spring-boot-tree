@@ -16,7 +16,6 @@ public class NodeService {
         Node a = new Node("A", b, d);
         StringBuilder sb = new StringBuilder();
         print(sb, a);
-        System.out.println(sb.toString());
         return sb.toString();
         
     }
