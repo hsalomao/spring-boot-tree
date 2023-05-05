@@ -1,4 +1,4 @@
-# Introdution -  spring-boot-tree
+# Introduction -  spring-boot-tree
 
 There is a tree defined with the following structure. Each node has a label, and optional left pointer and right pointer.
 
