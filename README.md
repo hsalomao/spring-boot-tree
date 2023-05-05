@@ -4,7 +4,7 @@ There is a tree defined with the following structure. Each node has a label, and
 
 Write a function and any related code in Java that output node label in depth first traversal order (note: left before right).
 
-{label: "A", left: "B", right: "D"}, {label: "B", left: "C", right: "E"}, {label: "C", left: "F"}, {label: "D"}, {label: "E"}, {label: "F"}
+{label:"A", left:"B", rigth:"D"}, {label:"B", left:"C", rigth:"E"}, {label:"C", left:"F"}, {label:"F"}, {label:"E"}, {label:"D"} 
 
 ## Requirements
 
